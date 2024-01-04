@@ -1,0 +1,8 @@
+{
+  "name": "damiisdandy-github-readme",
+  "version": "1.0.0",
+  "description": "My Github Readme",
+  "main": "index.html",
+  "author": "Damilola Jerugba <hello@damiisdandy.com>",
+  "license": "MIT"
+}
