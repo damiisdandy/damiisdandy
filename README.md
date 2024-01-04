@@ -9,8 +9,8 @@
 
 Hey there 👋
 
+I'm Damilola, a full-stack developer with a bachelor's degree in engineering. I have professional experience with companies such as Reddit Inc. and a strong interest in building software.
 
-Hello, I'm Damilola, a full-stack developer with a bachelor's degree in engineering. I have professional experience with companies such as Reddit Inc. and a strong interest in building software.
 
 Want to know more about me? [Check out my portfolio.](https://damiisdandy.com/)
 
