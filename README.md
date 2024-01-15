@@ -29,6 +29,7 @@ Want to know more about me? [Check out my portfolio.](https://damiisdandy.com/)
     </a>
   </div>
 </div>
+<br>
 <div align="center">
   <div style="display: flex; align-items: center">
     <a href="https://github.com/damiisdandy/playlist-converter-api">
@@ -39,6 +40,7 @@ Want to know more about me? [Check out my portfolio.](https://damiisdandy.com/)
     </a>
   </div>
 </div>
+<br>
 <div align="center">
   <div style="display: flex; align-items: center">
     <a href="https://github.com/damiisdandy/block-chain-visualization">
@@ -51,13 +53,6 @@ Want to know more about me? [Check out my portfolio.](https://damiisdandy.com/)
 </div>
 <br/>
 <br/>
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiisdandy&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=damiisdandy&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
 
 ## 📚 Blogs posts
 
