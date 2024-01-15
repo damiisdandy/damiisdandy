@@ -19,22 +19,45 @@ Want to know more about me? [Check out my portfolio.](https://damiisdandy.com/)
 ## 📌 Pinned Repositories
 
 <br>
+<div align="center">
+  <div style="display: flex; align-items: center">
+    <a href="https://github.com/damiisdandy/use-pagination">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=use-pagination&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
+    </a>
+    <a href="https://github.com/damiisdandy/snake-game">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=snake-game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
+    </a>
+  </div>
+</div>
+<div align="center">
+  <div style="display: flex; align-items: center">
+    <a href="https://github.com/damiisdandy/playlist-converter-api">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=playlist-converter-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
+    </a>
+    <a href="https://github.com/damiisdandy/linux-pretty-tree">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=linux-pretty-tree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
+    </a>
+  </div>
+</div>
+<div align="center">
+  <div style="display: flex; align-items: center">
+    <a href="https://github.com/damiisdandy/block-chain-visualization">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=block-chain-visualization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
+    </a>
+    <a href="https://github.com/damiisdandy/json-2-type">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=json-2-type&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
+    </a>
+  </div>
+</div>
+<br/>
+<br/>
 
-<a href="https://github.com/damiisdandy/use-pagination">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=use-pagination&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/damiisdandy/css-animation-auto-scroll">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=css-animation-auto-scroll&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/damiisdandy/playlist-converter-api">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=damiisdandy&repo=playlist-converter-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B37&hide_border=true&border_radius=6" />
-</a>
-<br/>
-<br/>
+<div align="center">
+  <div style="display: flex; justify-content: space-between">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiisdandy&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=damiisdandy&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
 ## 📚 Blogs posts
 
