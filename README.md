@@ -1,8 +1,7 @@
-I love to learn how things work, so I pursued a bachelor's in engineering, the moment I wrote my first line of code I never went back! I mostly write Javascript (Typescript), Python, and Go. I love working at startups where my impact can be shown quickly, psst! but I also don't mind big tech (ex Reddit).
+I am a Software Engineer with a Bachelor's in Engineering and over 3  years of full-stack experience in TypeScript, Go, and Python. I have a proven track record of building scalable applications at startups and large tech companies.
 
-- 🧪 A strong advocate for Test Driven Development!
-- 🐻‍❄️ Currently learning Embedded Systems
+- ✍🏿 Currently learning C++
 - 👷🏽 Worked at Reddit for about a year
 - 🚧 I'm the founder of [Jetron Ticket](https://www.jetronticket.com)
-- 📖 You can read my articles on [Dev.to](https://dev.to/damiisdandy)
+- 📖 You can read my articles on [damiisdandy.com](https://damiisdandy.com/blog)
 - 🖥️ I also build PCs and tiny hardware
